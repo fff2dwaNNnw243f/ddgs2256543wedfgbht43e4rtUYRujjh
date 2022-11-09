@@ -27,9 +27,10 @@
         end
     else
         print("working")
-        local GUI = loadstring(game:HttpGet("https://pastebin.com/raw/ZP1m4eXx"))()
+        local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/fff2dwaNNnw243f/SICK-UI/main/SICK%20UI23r4t5e6rtdsdfe"))()
             GUI:Notify({
         Title = "اخبار",
         Content = "السكربت الان تحت التحديث",
         Duration = 5000000,
     })
+end
